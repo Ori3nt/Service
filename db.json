@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "date_response": 29/01/2019,
+      "response": 100,
+      "text": "some comment as well"
     },
     {
       "id": 2,
