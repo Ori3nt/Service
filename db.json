@@ -6,12 +6,14 @@
       "response": 100,
       "text": "This_is_the_custumer",
       "customer": {
+        "idcustomer": 20,
         "name": "GianLuca",
         "surname": "Bianchi",
         "birthday": "19870413",
-        "idcustomer": 20,
-        "address": "Viale_Margherini",
         "citta": "Azzano_Decimo"
+        "address": "Viale_Margherini",
+        "role": "CEO",
+        "company": "Fiddlestick"
       }
     },
     {
