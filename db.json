@@ -1,1 +1,1 @@
-{"posts":[{"id":1,"date_response":"20190129","response":100,"text":"some comment as well"},{"id":2,"title":"Post 2"}]}
+{"posts":[{"id":1,"date_response":"20190129","response":100,"text":"This_is_the_custumer","custumer":{"name":"GianLuca","surname":"Bianchi","birthday":"19870413","idcustumer":20}},{"id":2,"title":"Post 2"}]}
