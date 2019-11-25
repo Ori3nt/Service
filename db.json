@@ -6,7 +6,7 @@
       "response": 100,
       "text": "This_is_the_custumer",
       "customer": {
-        "idcustomer": 20,
+        "id": 20,
         "name": "GianLuca",
         "surname": "Bianchi",
         "birthday": "19870413",
