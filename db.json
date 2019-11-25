@@ -18,7 +18,19 @@
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "date_response": "20190129",
+      "response": 100,
+      "text": "Success",
+      "customer": {
+        "id": 21,
+        "name": "Giorgio",
+        "surname": "Orbi",
+        "birthday": "19920423",
+        "city": "Pravisdomini",
+        "address": "Piazza Roma",
+        "role": "Marketing Manager",
+        "company": "Fiddlestick"
+      }
     }
   ]
 }
