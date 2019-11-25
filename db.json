@@ -5,11 +5,14 @@
       "date_response": "20190129",
       "response": 100,
       "text": "This_is_the_custumer",
-      "custumer": {
+      "customer": {
         "name": "GianLuca",
         "surname": "Bianchi",
         "birthday": "19870413",
-        "idcustumer": 20
+        "idcustomer": 20,
+        "address": "Viale_Margherini"
+        "cap": 33082,
+        "citta": "Azzano_Decimo"
       }
     },
     {
