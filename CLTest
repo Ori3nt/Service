@@ -1,1 +1,15 @@
 
+{
+  "Names": [
+    {
+      "id": 1,
+      "FirstName": "GianLuca",
+      "LastName": "Bianchi"
+    },
+    {
+      "id": 2,
+      "FirstName": "Giorgio",
+      "LastName": "Orbi"
+    }
+  ]
+}
